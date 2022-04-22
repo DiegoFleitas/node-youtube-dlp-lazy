@@ -3,7 +3,7 @@
   "description": "youtube-dlp driver for node",
   "homepage": "https://github.com/DiegoFleitas/node-youtube-dlp-lazy#readme",
   "version": "3.5.0",
-  "main": "./lib/youtube-dl.js",
+  "main": "./lib/youtube-dlp.js",
   "author": {
     "name": "Diego Fleitas",
     "url": "https://github.com/DiegoFleitas"
