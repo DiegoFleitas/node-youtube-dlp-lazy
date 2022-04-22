@@ -1,12 +1,12 @@
 {
-  "name": "youtube-dl",
-  "description": "youtube-dl driver for node",
-  "homepage": "https://github.com/przemyslawpluta/node-youtube-dl#readme",
+  "name": "youtube-dlp-lazy",
+  "description": "youtube-dlp driver for node",
+  "homepage": "https://github.com/DiegoFleitas/node-youtube-dlp-lazy#readme",
   "version": "3.5.0",
   "main": "./lib/youtube-dl.js",
   "author": {
-    "name": "Roly Fentanes",
-    "url": "https://github.com/fent"
+    "name": "Diego Fleitas",
+    "url": "https://github.com/DiegoFleitas"
   },
   "contributors": [
     {
